@@ -1,0 +1,21 @@
+# datasets and benchmark outputs
+/data/
+/python-script/data/
+
+# generated charts
+*.png
+
+# python
+.venv/
+__pycache__/
+*.py[cod]
+
+# go
+/bin/
+*.exe
+*.test
+
+# cuda
+*.o
+*.so
+*.a
